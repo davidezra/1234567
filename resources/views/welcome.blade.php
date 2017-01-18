@@ -84,6 +84,7 @@
 
                 <div class="links">
                     <p>Bringing high speed internet to the Kooskia / Kamiah area!</p>
+                    <p>Residential Plans - 10 / 15 / 20 Mbps</p>
                 </div>
             </div>
         </div>
